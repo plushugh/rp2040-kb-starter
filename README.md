@@ -2,7 +2,7 @@
 
 ## KiCad Requirements
 
-I recommend KiCad version >= 7.05, and make sure you install the
+I recommend KiCad version >= 8.0, and make sure you install the
 [kiswitch](https://github.com/kiswitch/kiswitch) plugin (Version 2.4)
 from the `Plugin and Content Manager`
 
